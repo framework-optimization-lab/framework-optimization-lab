@@ -1,5 +1,7 @@
 # Governance you can run
 
+**Tania Mason** — AI governance, decision support, and delivery frameworks, built inside large-scale healthcare payer platform operations.
+
 Everything here demonstrates one idea: **an AI system you can act on needs governance designed in, not bolted on.**
 
 Each repository is a small, runnable build of a governance pattern drawn from enterprise AI work — re-authored clean-room, with synthetic, domain-neutral data only. The pattern is always the same: a written model of the controls, then code that actually enforces them, then tests that prove each control fires.
@@ -26,3 +28,7 @@ The two are companions. The assistant governs answers **on the way in** — only
 These patterns come from designing AI-enabled decision support, identifier governance, and delivery frameworks inside large-scale healthcare payer platform operations — an environment where an unsupported number or an unowned decision has real consequences. The repositories are the generalized, runnable versions of that work.
 
 All code is dependency-light Python with passing test suites. All data is fictional.
+
+## Contact
+
+LinkedIn: [linkedin.com/in/tania-mason-payertech](https://www.linkedin.com/in/tania-mason-payertech)
