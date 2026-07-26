@@ -4,7 +4,7 @@
 
 Everything here demonstrates one idea: **an AI system you can act on needs governance designed in, not bolted on.**
 
-Each repository is a small, runnable build of a governance pattern drawn from enterprise AI work — re-authored clean-room, with synthetic, domain-neutral data only. The pattern is always the same: a written model of the controls, then code that actually enforces them, then tests that prove each control fires.
+Each repository is a small, runnable build of a governance pattern drawn from enterprise AI work — re-authored clean-room, with synthetic, domain-neutral data only. The pattern is always the same: a written model of the controls, then code that actually enforces them, then tests that confirm each control fires.
 
 ## The repositories
 
